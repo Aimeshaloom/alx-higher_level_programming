@@ -1,3 +1,4 @@
 #!/usr/bin/python3
-str = “The Zen of Python” 
+str1 = "The Zen of Python"
+str2 = ",by TimPeters"
 print(str)
