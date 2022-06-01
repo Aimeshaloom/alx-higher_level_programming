@@ -5,16 +5,14 @@ import random
 number = random.randint(-10000, 10000)
 
 sety = 0
-
 if number < 0:
-
-        number *= -1
+ number *= -1
 
             sety = 1
 
             lastd = number % 10
 
-            if exe == 1:
+            if sety == 1:
 
                     number *= -1
 
